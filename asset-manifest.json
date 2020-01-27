@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zywy.github.io/static/css/main.d7c61301.chunk.css",
+    "main.js": "/zywy.github.io/static/js/main.887340e8.chunk.js",
+    "main.js.map": "/zywy.github.io/static/js/main.887340e8.chunk.js.map",
+    "runtime-main.js": "/zywy.github.io/static/js/runtime-main.56984699.js",
+    "runtime-main.js.map": "/zywy.github.io/static/js/runtime-main.56984699.js.map",
+    "static/js/2.d74ec221.chunk.js": "/zywy.github.io/static/js/2.d74ec221.chunk.js",
+    "static/js/2.d74ec221.chunk.js.map": "/zywy.github.io/static/js/2.d74ec221.chunk.js.map",
+    "index.html": "/zywy.github.io/index.html",
+    "precache-manifest.f6761ef21da7e9f4b6975e343237e604.js": "/zywy.github.io/precache-manifest.f6761ef21da7e9f4b6975e343237e604.js",
+    "service-worker.js": "/zywy.github.io/service-worker.js",
+    "static/css/main.d7c61301.chunk.css.map": "/zywy.github.io/static/css/main.d7c61301.chunk.css.map",
+    "static/js/2.d74ec221.chunk.js.LICENSE": "/zywy.github.io/static/js/2.d74ec221.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56984699.js",
+    "static/js/2.d74ec221.chunk.js",
+    "static/css/main.d7c61301.chunk.css",
+    "static/js/main.887340e8.chunk.js"
+  ]
+}
